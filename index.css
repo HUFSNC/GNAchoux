@@ -1,0 +1,38 @@
+h1{
+    color:azure;
+    background-color: rgb(102, 225, 30)
+}
+
+#x{
+    width: 100px;
+}
+
+#y{
+    width: 100px;
+}
+
+#result{
+    width: 200px;
+}
+
+.class{
+    height: 250px;
+    background-color: blueviolet;
+    padding-top: 50px;
+    padding-left: 20px;
+
+    /*margin-top: 20px;*/
+}
+
+input[type="button"]{
+    width: 50px;
+    height: 50px;
+    color:aquamarine;
+    background-color: black;
+}
+
+.calc:hover{ /*마우스 커서 갖다대면 변화하는 경우 hover 사용*/
+    background-color: bisque;
+    height: 400px;
+}
+
